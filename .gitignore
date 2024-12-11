@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+.vscode
+all-logs.log
+logs/
+test.js
+uploads/qr_code_csv
